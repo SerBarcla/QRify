@@ -1,0 +1,18 @@
+<odoo>
+    <data>
+        <record id="qrify_form_view" model="ir.ui.view">
+            <field name="name">qrify.qrify.form</field>
+            <field name="model">qrify.qrify</field>
+            <field name="arch" type="xml">
+                <form string="QRify">
+                    <sheet>
+                        <group>
+                            <field name="name"/>
+                            <field name="record_id"/>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+    </data>
+</odoo>
