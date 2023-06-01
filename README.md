@@ -19,5 +19,3 @@ Create a new record for the model.
 
 The app will generate a unique QR code for the new record.
 
-Contribution
-We welcome contributions to the QRify project. If you want to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.
